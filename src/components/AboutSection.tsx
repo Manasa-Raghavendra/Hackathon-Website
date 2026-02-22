@@ -14,12 +14,9 @@ const AboutSection = () => (
       <h2 className="font-display text-sm tracking-[0.3em] uppercase text-primary mb-4">About</h2>
       <h3 className="font-heading text-3xl md:text-5xl font-bold mb-8">The Future of Innovation</h3>
       <p className="text-muted-foreground text-base md:text-lg leading-relaxed max-w-3xl mx-auto">
-        XYPHER 1.0 is a premier 2-day hackathon hosted by the Department of Information Science & Engineering
-        at Maharaja Institute of Technology, Mysore. This event brings together the brightest minds to tackle
-        real-world challenges through AI-driven solutions, automation, and cutting-edge technology. Whether you're
-        building intelligent systems, crafting seamless web experiences, or pioneering IoT innovations — XYPHER
-        is the stage where your ideas transform into impactful solutions. Join us for an unforgettable journey
-        of collaboration, creativity, and technological excellence.
+       XYPHER is a 2-day hackathon organized by Maharaja Institute of Technology Mysore. Open to all students, XYPHER is designed to push creative and technical boundaries, inviting coders, designers, and innovators to build solutions that matter.
+
+Whether you are an ML enthusiast engineering intelligent features or a web developer crafting seamless digital experiences, XYPHER is the arena where your ideas take flight.
       </p>
     </div>
 
