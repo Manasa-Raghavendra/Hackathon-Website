@@ -28,7 +28,7 @@ const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16 md:h-20">
         <a href="#home" className="font-display text-xl md:text-2xl font-bold tracking-wider glow-text">
-          XYPHER<span className="text-primary"> 1.0</span>
+          XYPHER
         </a>
 
         {/* Desktop */}
@@ -43,7 +43,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="https://forms.google.com"
+            href="https://docs.google.com/forms/d/e/1FAIpQLScTKkIb9rSk63QLg5i2PDrAmpInX_3VEvxbFQ1EJW6D0hRVtA/viewform"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-2.5 rounded-lg bg-primary text-primary-foreground font-semibold text-sm tracking-wider uppercase glow-box hover:glow-box-strong transition-all duration-300 hover:scale-105"
@@ -83,7 +83,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="https://forms.google.com"
+              href="https://docs.google.com/forms/d/e/1FAIpQLScTKkIb9rSk63QLg5i2PDrAmpInX_3VEvxbFQ1EJW6D0hRVtA/viewform"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-lg bg-primary text-primary-foreground font-semibold text-sm text-center tracking-wider uppercase glow-box"

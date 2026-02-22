@@ -4,7 +4,7 @@ const SponsorSection = () => (
       <h2 className="font-display text-sm tracking-[0.3em] uppercase text-primary mb-4">Sponsors</h2>
       <h3 className="font-heading text-3xl md:text-5xl font-bold mb-6">Want to Be Our Sponsor?</h3>
       <p className="text-muted-foreground text-base md:text-lg mb-10 max-w-2xl mx-auto">
-        Partner with XYPHER 1.0 and connect your brand with the next generation of innovators.
+        Partner with XYPHER and connect your brand with the next generation of innovators.
         Gain visibility among top tech talent and contribute to shaping the future of technology.
       </p>
       <a

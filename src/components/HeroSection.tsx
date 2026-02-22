@@ -29,25 +29,33 @@ const HeroSection = () => {
           <div className="absolute inset-0 rounded-full animate-pulse-glow pointer-events-none" />
         </div>
 
-
-        <h1 className="font-heading text-4xl sm:text-5xl md:text-7xl font-bold leading-tight mb-6 animate-fade-in-up animate-text-glow">
-          Intelligence In Action
+        <h1 className="font-heading text-4xl sm:text-5xl md:text-7xl font-bold leading-tight mb-6 animate-fade-in-up animate-text-glow" style={{ animationDelay: "0.3s" }}>
+          XYPHER
         </h1>
 
-        <p className="text-muted-foreground text-lg md:text-xl mb-2 animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
-          Maharaja Institute of Technology Mysore
-        </p>
 
-        <p className="text-muted-foreground text-base md:text-lg mb-2 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
+        <h4 className="font-heading text-2xl sm:text-3xl md:text-5xl font-bold leading-tight mb-6 animate-fade-in-up animate-text-glow">
+          Intelligence In Action
+        </h4>
+
+
+        <p className="text-muted-foreground text-lg md:text-xl mb-2 animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
           March 13 & 14, 2026 · Friday & Saturday
         </p>
+
 
         <p className="text-xl md:text-2xl font-bold glow-text animate-fade-in-up" style={{ animationDelay: "0.4s" }}>
           9:00 AM – 5:00 PM
         </p>
 
-        <p className="text-muted-foreground text-sm mt-1 mb-4 animate-fade-in-up" style={{ animationDelay: "0.45s" }}>
+
+        <p className="text-muted-foreground text-base md:text-lg mb-2 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
           2-Day Hackathon Event
+        </p>
+
+
+        <p className="text-muted-foreground text-base md:text-lg mb-2 animate-fade-in-up" style={{ animationDelay: "0.45s" }}>
+          Maharaja Institute of Technology Mysore
         </p>
 
        <div className="flex flex-col items-center gap-4 mb-8">
@@ -70,7 +78,7 @@ const HeroSection = () => {
 
         <div className="flex flex-col sm:flex-row gap-4 animate-fade-in-up" style={{ animationDelay: "0.5s" }}>
           <a
-            href="https://forms.google.com"
+            href="https://docs.google.com/forms/d/e/1FAIpQLScTKkIb9rSk63QLg5i2PDrAmpInX_3VEvxbFQ1EJW6D0hRVtA/viewform"
             target="_blank"
             rel="noopener noreferrer"
             className="px-10 py-4 rounded-lg bg-primary text-primary-foreground font-heading font-bold text-lg tracking-wider uppercase glow-box-strong hover:scale-105 transition-all duration-300"
