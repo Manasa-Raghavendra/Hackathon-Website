@@ -3,9 +3,9 @@ import deptLogo from "@/assets/dept-logo.png";
 import collegeLogo from "@/assets/college-logo.png";
 
 const coordinators = [
-  { name: "Student Coordinator 1", phone: "+91 98765 43210" },
-  { name: "Student Coordinator 2", phone: "+91 98765 43211" },
-  { name: "Student Coordinator 3", phone: "+91 98765 43212" },
+  { name: "Mithun Mourya", phone: "+91 8749065206 " },
+  { name: "Manya", phone: "+91 8050073270" },
+  { name: "Manasa", phone: "+91 8317318985" },
 ];
 
 const ContactSection = () => (
@@ -61,19 +61,7 @@ const ContactSection = () => (
         {/* Logos Container */}
         <div className="flex items-center gap-10">
 
-          {/* Dept Logo */}
-          <div className="flex flex-col items-center gap-2">
-            <div className="w-20 h-20 rounded-full overflow-hidden glow-box-strong animate-pulse-glow hover:scale-105 transition-all duration-300">
-              <img
-                src={deptLogo}
-                alt="Department of CSE AI"
-                className="w-full h-full object-cover rounded-full"
-              />
-            </div>
-            <span className="font-heading text-sm text-muted-foreground tracking-wider uppercase">
-              Dept of CSE - AI
-            </span>
-          </div>
+         
 
           {/* College Logo */}
           <div className="flex flex-col items-center gap-2">
@@ -88,7 +76,19 @@ const ContactSection = () => (
               MIT Mysore
             </span>
           </div>
-
+          {/* Dept Logo */}
+          <div className="flex flex-col items-center gap-2">
+            <div className="w-20 h-20 rounded-full overflow-hidden glow-box-strong animate-pulse-glow hover:scale-105 transition-all duration-300">
+              <img
+                src={deptLogo}
+                alt="Department of CSE AI"
+                className="w-full h-full object-cover rounded-full"
+              />
+            </div>
+            <span className="font-heading text-sm text-muted-foreground tracking-wider uppercase">
+              Dept of CSE - AI
+            </span>
+          </div>
         </div>
 
       </div>

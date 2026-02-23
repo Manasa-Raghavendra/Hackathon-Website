@@ -40,7 +40,7 @@ const HeroSection = () => {
 
 
         <p className="text-muted-foreground text-lg md:text-xl mb-2 animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
-          March 13 & 14, 2026 · Friday & Saturday
+          March 27 & 28 ,  2026 · Friday & Saturday
         </p>
 
 
