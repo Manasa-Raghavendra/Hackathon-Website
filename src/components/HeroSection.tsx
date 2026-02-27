@@ -78,7 +78,7 @@ const HeroSection = () => {
 
         <div className="flex flex-col sm:flex-row gap-4 animate-fade-in-up" style={{ animationDelay: "0.5s" }}>
           <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLScTKkIb9rSk63QLg5i2PDrAmpInX_3VEvxbFQ1EJW6D0hRVtA/viewform"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSeT6mI7-UyQVEzd4nMADM0gzHSCYAfbswrd_h2jQDUBjgLCSQ/viewform?usp=dialog"
             target="_blank"
             rel="noopener noreferrer"
             className="px-10 py-4 rounded-lg bg-primary text-primary-foreground font-heading font-bold text-lg tracking-wider uppercase glow-box-strong hover:scale-105 transition-all duration-300"

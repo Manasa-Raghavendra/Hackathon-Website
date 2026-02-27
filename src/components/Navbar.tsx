@@ -43,7 +43,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLScTKkIb9rSk63QLg5i2PDrAmpInX_3VEvxbFQ1EJW6D0hRVtA/viewform"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSeT6mI7-UyQVEzd4nMADM0gzHSCYAfbswrd_h2jQDUBjgLCSQ/viewform?usp=dialog"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-2.5 rounded-lg bg-primary text-primary-foreground font-semibold text-sm tracking-wider uppercase glow-box hover:glow-box-strong transition-all duration-300 hover:scale-105"
@@ -83,7 +83,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLScTKkIb9rSk63QLg5i2PDrAmpInX_3VEvxbFQ1EJW6D0hRVtA/viewform"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSeT6mI7-UyQVEzd4nMADM0gzHSCYAfbswrd_h2jQDUBjgLCSQ/viewform?usp=dialog"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-lg bg-primary text-primary-foreground font-semibold text-sm text-center tracking-wider uppercase glow-box"
