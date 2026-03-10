@@ -71,7 +71,7 @@ const HeroSection = () => {
   </div>
 
   <span className="px-6 py-2 rounded-full text-sm font-semibold bg-red-500/10 text-red-400 border border-red-500/40 shadow-[0_0_20px_rgba(239,68,68,0.3)]">
-    ⚡ Limited Seats Available
+    ⚡ Registrations Closed
   </span>
 
 </div>

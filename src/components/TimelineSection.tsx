@@ -12,7 +12,7 @@ const events: EventType[] = [
   {
     date: "Feb 23",
     start: new Date("2026-02-23T09:00:00"),
-    end: new Date("2026-03-21T23:59:59"),
+    end: new Date("2026-03-10T18:59:59"),
     title: "Registrations Open",
     desc: "Sign up with your team (3–4 members) and choose your domain.",
   },
