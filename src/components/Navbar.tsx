@@ -83,7 +83,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSeT6mI7-UyQVEzd4nMADM0gzHSCYAfbswrd_h2jQDUBjgLCSQ/viewform?usp=dialog"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-lg bg-primary text-primary-foreground font-semibold text-sm text-center tracking-wider uppercase glow-box"
